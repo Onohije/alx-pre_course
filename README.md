@@ -1,1 +1,1 @@
-My first readme
+trying out my alx git project
